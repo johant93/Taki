@@ -1,9 +1,10 @@
+//###################################################
+//##########Yehonatan Shaag 308357953################
+//##########Johann Thuillier 336104120 ################
+//###################################################
+
 #include "Card.h"
-//#define RANDOM
-//#define WINDOWS
-//#ifdef WINDOWS
-//#include <windows.h>
-//#endif
+
 using namespace std;
 Card Card::generate_card() {
 #ifdef RANDOM
